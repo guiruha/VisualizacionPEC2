@@ -16,4 +16,4 @@ Las añado también a continuación para que se vean directamente en el README d
 
 ### ROSE CHART
 
-![plot3](https://github.com/guiruha/VisualizacionPEC2/blob/main/RoseChart.PNG)
+![plot3](https://github.com/guiruha/VisualizacionPEC2/blob/main/RoseChartDefinitivo.gif)
